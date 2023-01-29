@@ -1,6 +1,6 @@
 你好，这里是努力的七。
 
-![头像](https://z3.ax1x.com/2020/12/15/rQ3zcR.jpg)
+![头像](https://img.xiejiaqi.cn/i/2023/01/30/63d6b2d739c09.webp)
 
 一个痛苦但又快乐的难孩纸。
 
