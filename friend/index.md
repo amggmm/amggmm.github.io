@@ -9,7 +9,7 @@ permalink: /friend/
 - 联系邮箱：lianxi@xiejiaqi.email
 - 博客网址：https://blog.xiejiaqi.cn
 - 博客简介：一个可怜但又快乐的难孩纸
-- 网站头像：https://img.xiejiaqi.cn/i/2023/01/30/63d6b2d739c09.webp
+- 网站头像：https://z3.ax1x.com/2020/12/15/rQ3zcR.jpg
 
 ## 友链条件
 - 再申请友链的同时，你也需要把我的博客添加为友链。
