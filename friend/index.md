@@ -4,7 +4,7 @@ title: 友链
 permalink: /friend/
 ---
 
-## 本博信息/你的信息
+## 本博信息
 - 博客名称：努力的七
 - 联系邮箱：lianxi@xiejiaqi.email
 - 博客网址：https://blog.xiejiaqi.cn
