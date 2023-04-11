@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 友链
-permalink: /friend/
+permalink: /friend
 ---
 
 ## 本博信息
